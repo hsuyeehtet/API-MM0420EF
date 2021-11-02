@@ -1,0 +1,11 @@
+.s-alert-box {
+    min-width: 250px;
+}
+
+.app{
+    color:rgb(24, 32, 36);
+}
+
+.s-alert-close::before, .s-alert-close::after {
+    width: 2px;
+}
