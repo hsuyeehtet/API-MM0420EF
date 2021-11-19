@@ -1,0 +1,4 @@
+# Know-Your-Neighborhood-Application
+K-Y-N (Know-Your-Neighborhood) Application is the intended for the users to search or can see the stores around our society. To use our app user, have to login first, in here we will give user to make a choice to login with Facebook or just login with local one if account exist. If user choose to login with Facebook, the user is already logged in to Facebook, it redirects them to Facebook.com and checks as soon as log in, user will get a brief pop-up box that explains the type and quantity of information that will be shared with. Then Click "Continue" if the user agrees to share the required information with that third-party website.
+Once user reach to the app, have to access location to see the stores from surrounding. Apart from that user can also search stores by its name or locations.
+
